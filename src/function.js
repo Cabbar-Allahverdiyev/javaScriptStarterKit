@@ -123,4 +123,4 @@ function perfectNumbersInParams(number) {
    return perfectNumbers;
 }
 
-console.log(perfectNumbersInParams(100));
+console.log(perfectNumbersInParams(10000));
